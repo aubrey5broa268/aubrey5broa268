@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aubrey5broa268
+- 👀 I’m interested in database. I’m currently learning SQL.
+- 🌱 Data science student skilled in SQL. 
+- 💞️ Passionate about leveraging data to drive decision-making and business growth.
